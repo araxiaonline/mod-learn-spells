@@ -2,6 +2,7 @@
 
 ## mod-learn-spells
 
+
 ![Latest Release](https://img.shields.io/github/v/release/araxiaonline/mod-learn-spells?label=current%20version)
 ![GitHub Release Date](https://img.shields.io/github/release-date/araxiaonline/mod-learn-spells)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/araxiaonline/mod-learn-spells/build-release.yml?branch=araxia-main&event=push&label=build%20status)
